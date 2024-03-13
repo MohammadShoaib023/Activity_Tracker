@@ -17,4 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## This Video App
 
-![i1](assets/activity_tracker.mp4)
+
+
+https://github.com/MohammadShoaib023/Activity_Tracker/assets/129606179/6e02262b-bf2e-4cf4-8647-389e9a09dc05
